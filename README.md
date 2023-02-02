@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt3o-dap&label=Profile%20views&color=0e75b6&style=flat" alt="matt3o-dap" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matt3o-dap" alt="matt3o-dap" /></a> </p>
-
 - 🔭 I’m currently working on [Outcity](https://outcity.it/)
 
 - 🌱 I’m currently learning **Flutter**
