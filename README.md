@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt3o-dap&label=Profile%20views&color=0e75b6&style=flat" alt="matt3o-dap" /> </p>
 
-- 🔭 I’m currently working on [Outcity](https://outcity.it/)
+- 🔭 I’m currently working on [Lexroom AI](https://lexroom.ai/)
 
 - 🌱 I’m currently learning **Flutter**
 
